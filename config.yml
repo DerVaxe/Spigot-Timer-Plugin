@@ -1,0 +1,9 @@
+timer-color: "&7"
+paused-message: "&4Timer paused"
+stopped-message: "&4Timer stopped"
+show-units: true
+show-instant-min-hours: false
+timer-paused-when-set: false
+gui: true
+
+

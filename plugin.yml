@@ -1,0 +1,11 @@
+name: TimerPlugin
+version: '${project.version}'
+main: me.dervaxe.timerplugin.TimerPlugin
+api-version: '1.20'
+commands:
+  timer:
+    description: Make your own timer
+    permission: timer.config
+permissions:
+  timer.config:
+    description: Allows the usage and configuration of the timer
