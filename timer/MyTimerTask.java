@@ -59,6 +59,6 @@ public class MyTimerTask extends BukkitRunnable {
         for(Player p : Bukkit.getOnlinePlayers()){
             actionBar.sendMessage(p, plugin.getConfig().getString("timer-color")+timeString);
         }
-        
+
     }
 }
